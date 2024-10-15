@@ -1,7 +1,0 @@
-
-/*
- * -- grayscale --
- * -- grayscale --
- * -- grayscale --
- *
- */
